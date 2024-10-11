@@ -67,4 +67,3 @@
 59. **Intitle:"Index of" .npmrc** - Revelação de arquivos de configuração do npm que podem conter tokens de acesso.
 60. **Filetype:sql intext:password** - Descoberta de arquivos SQL contendo senhas em texto simples.
 
-Espero que esta lista expandida seja útil para seus propósitos. Lembre-se sempre de usar essas técnicas de forma ética e responsável, respeitando a privacidade e a segurança das informações online.
